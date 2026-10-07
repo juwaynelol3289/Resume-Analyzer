@@ -1,0 +1,128 @@
+{
+    "Programming Languages": {
+        "Python": ["python"],
+        "Java": ["java"],
+        "JavaScript": ["javascript", "js"],
+        "TypeScript": ["typescript", "ts"],
+        "C": ["c"],
+        "C++": ["c++", "cpp"],
+        "C#": ["c#", "csharp"],
+        "Go": ["go", "golang"],
+        "Rust": ["rust"],
+        "Kotlin": ["kotlin"],
+        "Swift": ["swift"],
+        "PHP": ["php"],
+        "Ruby": ["ruby"]
+    },
+
+    "Web Development": {
+        "HTML": ["html"],
+        "CSS": ["css"],
+        "React": ["react", "reactjs", "react.js"],
+        "Angular": ["angular"],
+        "Vue.js": ["vue", "vue.js", "vuejs"],
+        "Django": ["django"],
+        "Flask": ["flask"],
+        "FastAPI": ["fastapi"],
+        "Node.js": ["node.js", "nodejs"],
+        "Express.js": ["express.js", "expressjs"],
+        "Next.js": ["next.js", "nextjs"]
+    },
+
+    "Databases": {
+        "SQL": ["sql"],
+        "MySQL": ["mysql"],
+        "PostgreSQL": ["postgresql", "postgres"],
+        "SQLite": ["sqlite"],
+        "MongoDB": ["mongodb", "mongo"],
+        "Redis": ["redis"],
+        "Oracle": ["oracle database", "oracle db"]
+    },
+
+    "Data & AI": {
+        "Machine Learning": ["machine learning", "machine-learning"],
+        "Deep Learning": ["deep learning", "deep-learning"],
+        "Artificial Intelligence": [
+            "artificial intelligence",
+            "ai"
+        ],
+        "Data Science": ["data science", "data scientist"],
+        "Data Analysis": ["data analysis", "data analytics"],
+        "Pandas": ["pandas"],
+        "NumPy": ["numpy"],
+        "TensorFlow": ["tensorflow"],
+        "PyTorch": ["pytorch"],
+        "Scikit-learn": ["scikit-learn", "sklearn"],
+        "OpenCV": ["opencv"]
+    },
+
+    "Cloud & DevOps": {
+        "Git": ["git"],
+        "GitHub": ["github"],
+        "GitLab": ["gitlab"],
+        "Docker": ["docker"],
+        "Kubernetes": ["kubernetes", "k8s"],
+        "AWS": ["aws", "amazon web services"],
+        "Azure": ["azure", "microsoft azure"],
+        "Google Cloud": ["google cloud", "gcp"],
+        "CI/CD": [
+            "ci/cd",
+            "continuous integration",
+            "continuous deployment"
+        ],
+        "Linux": ["linux"]
+    },
+
+    "Office & Productivity": {
+        "Microsoft Excel": [
+            "microsoft excel",
+            "ms excel",
+            "excel"
+        ],
+        "Microsoft Word": [
+            "microsoft word",
+            "ms word",
+            "word"
+        ],
+        "PowerPoint": [
+            "powerpoint",
+            "microsoft powerpoint"
+        ],
+        "Google Sheets": ["google sheets"],
+        "Google Docs": ["google docs"]
+    },
+
+    "Soft Skills": {
+        "Communication": [
+            "communication",
+            "verbal communication"
+        ],
+        "Leadership": [
+            "leadership",
+            "leader"
+        ],
+        "Teamwork": [
+            "teamwork",
+            "team work",
+            "collaboration"
+        ],
+        "Problem Solving": [
+            "problem solving",
+            "problem-solving"
+        ],
+        "Critical Thinking": [
+            "critical thinking"
+        ],
+        "Time Management": [
+            "time management"
+        ],
+        "Adaptability": [
+            "adaptability",
+            "adaptable"
+        ],
+        "Creativity": [
+            "creativity",
+            "creative"
+        ]
+    }
+}
